@@ -57,7 +57,7 @@ export default function Home() {
                   className="w-full mb-1 h-5 object-contain"
                   alt="MagickPen - 智能寫作助手"
                 />
-                智能写作助手
+                智能寫作助手
               </Link>
             </li>
             <li>
@@ -74,7 +74,7 @@ export default function Home() {
                   className="w-full mb-1 h-5 object-contain"
                   alt="ReviewGPT - Make Your Writing Awesome"
                 />
-                AI 改写文章
+                AI 改寫文章
               </Link>
             </li>
             <li>
@@ -91,7 +91,7 @@ export default function Home() {
                   className="w-full mb-1 h-5 object-contain"
                   alt="OpenL - AI 翻譯專家"
                 />
-                AI 翻译专家
+                AI 翻譯專家
               </Link>
             </li>
             <li>
@@ -108,7 +108,7 @@ export default function Home() {
                   className="w-full mb-1 h-5 object-contain"
                   alt="Teach Anything - AI 百科全書"
                 />
-                AI 百科全书
+                AI 百科全書
               </Link>
             </li>
             <li>
@@ -125,7 +125,7 @@ export default function Home() {
                   className="w-full mb-1 h-5 object-contain"
                   alt="Ask2End - 打破砂鍋問到底"
                 />
-                打破砂锅问到底
+                打破砂鍋問到底
               </Link>
             </li>
             <li>
