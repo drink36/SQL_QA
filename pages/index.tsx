@@ -12,8 +12,8 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>AI 法律助手</title>
-        <meta name="description" content="AI 法律助手" />
+        <title>AI 助手</title>
+        <meta name="description" content="AI 助手" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
@@ -32,7 +32,7 @@ export default function Home() {
       </Script>
       <main className={styles.main}>
         <h1 className="text-slate-700 font-bold text-2xl mb-12 flex items-center gap-3 dark:text-slate-400">
-          <Image src={'/logo.png'} width="32" height="32" alt="MagickPen logo" /> AI 法律助手
+          <Image src={'/logo.png'} width="32" height="32" alt="MagickPen logo" /> AI 助手
         </h1>
         <div className={styles.center}>
           <SearchDialog />
@@ -55,7 +55,7 @@ export default function Home() {
                   width={100}
                   height="20"
                   className="w-full mb-1 h-5 object-contain"
-                  alt="MagickPen - 智能写作助手"
+                  alt="MagickPen - 智能寫作助手"
                 />
                 智能写作助手
               </Link>
@@ -89,7 +89,7 @@ export default function Home() {
                   width={100}
                   height="20"
                   className="w-full mb-1 h-5 object-contain"
-                  alt="OpenL - AI 翻译专家"
+                  alt="OpenL - AI 翻譯專家"
                 />
                 AI 翻译专家
               </Link>
@@ -106,7 +106,7 @@ export default function Home() {
                   width={100}
                   height="20"
                   className="w-full mb-1 h-5 object-contain"
-                  alt="Teach Anything - AI 百科全书"
+                  alt="Teach Anything - AI 百科全書"
                 />
                 AI 百科全书
               </Link>
@@ -123,7 +123,7 @@ export default function Home() {
                   width={100}
                   height="20"
                   className="w-full mb-1 h-5 object-contain"
-                  alt="Ask2End - 打破砂锅问到底"
+                  alt="Ask2End - 打破砂鍋問到底"
                 />
                 打破砂锅问到底
               </Link>
@@ -140,7 +140,7 @@ export default function Home() {
                   width={100}
                   height="20"
                   className="w-full mb-1 h-5 object-contain"
-                  alt="Teach Anything - AI 百科全书"
+                  alt="Teach Anything - AI 百科全書"
                 />
                 Prompt 生成器
               </Link>
