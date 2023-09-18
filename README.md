@@ -1,6 +1,6 @@
-# AI 法律助手
+# AI 助手
 
-法律文件来源：https://github.com/LawRefBook/Laws
+文件来源：https://github.com/LawRefBook/Laws
 
 项目模板：https://github.com/supabase-community/nextjs-openai-doc-search
 
